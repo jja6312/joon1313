@@ -4,7 +4,7 @@ const ctx = canvas.getContext("2d");
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
-// 벚꽃 이미지 생성
+// 벚꽃 이미지 생성d
 const img = new Image();
 img.src =
   "http://www.incheonilbo.com/news/photo/202004/1031888_307877_2215.jpg";
